@@ -7,7 +7,8 @@ custom a php framework and add app on it.
                 style.css
             js*
                 main.js
-            img*   
+            img*
+            .htaccess:: mode_rewrite: could let us rewrite urls. if you type something in url could.t find, then this will make rewrite the url and then go back the index.php
         
         app*:: the entire mvc structure, library...
           libraries*::the heart of app
