@@ -23,3 +23,5 @@ custom a php framework and add app on it.
            bootstrap.php :: basiclly it's gonna require all the files we need
            .htaccess:: we just don't want our app folder to be shown in phpmyadmin
            
+         .htaccess:: we don't want our public dir show on phpmyadmin. we rewrite public to out root url
+           
