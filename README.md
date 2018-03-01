@@ -1,6 +1,6 @@
 custom a php framework and add app on it.
 1. create structure
-        public*::The front of application
+        public*:: The front of application
             index.php
             css*
                 style.css
