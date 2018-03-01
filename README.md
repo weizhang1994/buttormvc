@@ -17,7 +17,11 @@ custom a php framework and add app on it.
               controller.php ::we can easilly load models and views from other controllers
            models*
            views*
+                pages* :: whatever we created in controller should have a view 
+                        index.php
+                        about.php
            controllers*
+                Pages.php
            helpers*::for small things. like redirect helper, session helper
            config* :: the database, parameters..
            bootstrap.php :: basiclly it's gonna require all the files we need
