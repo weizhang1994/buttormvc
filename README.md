@@ -8,7 +8,7 @@ custom a php framework and add app on it.
             js*
                 main.js
             img*
-            .htaccess:: mode_rewrite: could let us rewrite urls. if you type something in url could.t find, then this will make rewrite the url and then go back the index.php
+            .htaccess:: mode_rewrite: could let us rewrite urls. if you type something in url couln't find, then this will  rewrite the url and then go back the index.php. 
         
         app*:: the entire mvc structure, library...
           libraries*::the heart of app
@@ -21,5 +21,5 @@ custom a php framework and add app on it.
            helpers*::for small things. like redirect helper, session helper
            config* :: the database, parameters..
            bootstrap.php :: basiclly it's gonna require all the files we need
-           .htaccess:: we just don't want our app folder to shown
+           .htaccess:: we just don't want our app folder to be shown in phpmyadmin
            
